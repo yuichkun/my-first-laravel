@@ -3,3 +3,5 @@
 
 `php vendor/bin/homestead make`
 
+`cp .env.template .env`
+
