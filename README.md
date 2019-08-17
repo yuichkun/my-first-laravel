@@ -1,10 +1,12 @@
-# Prerequisites
+# Laravel Study
+
+## Prerequisites
 
 - Vagrant
 - Composer
 - PHP
 
-# Setup
+## Setup
 
 `composer install`
 
@@ -14,4 +16,10 @@
 
 `php artisan key:generate`
 
+`vagrant up`
+
+## migration
+
+`vagrant ssh`
+`cd code/`
 `php artisan migrate`
