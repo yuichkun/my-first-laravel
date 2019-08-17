@@ -5,3 +5,5 @@
 
 `cp .env.template .env`
 
+`php artisan key:generate`
+
